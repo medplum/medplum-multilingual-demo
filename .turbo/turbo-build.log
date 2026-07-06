@@ -1,5 +1,5 @@
 
-> medplum-multilingual-demo@5.1.23 build
+> medplum-multilingual-demo@5.1.24 build
 > tsc && vite build
 
 [36mvite v8.1.0 [32mbuilding client environment for production...[36m[39m
@@ -10,13 +10,13 @@
 ✓ 611 modules transformed.
 rendering chunks...
 computing gzip size...
-dist/index.html                     0.54 kB │ gzip:   0.34 kB
+dist/index.html                     0.54 kB │ gzip:   0.33 kB
 dist/assets/index-BcS95l7s.css    235.18 kB │ gzip:  34.53 kB
-dist/assets/index-C8DGDpzn.js   1,001.40 kB │ gzip: 301.46 kB
+dist/assets/index-DciFvxTU.js   1,001.61 kB │ gzip: 301.53 kB
 
-[32m✓ built in 3.52s[39m
 [33m[plugin builtin:vite-reporter] 
 (!) Some chunks are larger than 500 kB after minification. Consider:
 - Using dynamic import() to code-split the application
 - Use build.rolldownOptions.output.codeSplitting to improve chunking: https://rolldown.rs/reference/OutputOptions.codeSplitting
 - Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.[39m
+[32m✓ built in 4.57s[39m
